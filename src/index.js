@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 
 const App = () => {
     const buttonText = { text: 'Component are cool'};
-    const labelText = { text: 'Enter name:' }
+    const labelText = { text: 'Enter yourn name:' }
 
     return (
         <div>
